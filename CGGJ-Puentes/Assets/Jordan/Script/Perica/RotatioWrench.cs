@@ -7,7 +7,7 @@ using TMPro;
 
 public class RotatioWrench : MonoBehaviour{
     // Start is called before the first frame update
-    int players = 2;
+    public int players = 2;
     public Animator m_Animator;
     int cont = 0;
     public int speed;
@@ -53,7 +53,7 @@ public class RotatioWrench : MonoBehaviour{
         yield return new WaitForSeconds(1);
         m_Animator.SetTrigger("FadeOut");
         yield return new WaitForSeconds(2);
-        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("Perica");
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("Baño");
 
         // Wait until the asynchronous scene fully loads
         while (!asyncLoad.isDone){

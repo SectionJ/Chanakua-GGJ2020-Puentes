@@ -32,7 +32,7 @@ public class SelectorController : MonoBehaviour{
 
     IEnumerator Fadde(){
         yield return new WaitForSeconds(2);
-        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("Perica");
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("Island");
 
         // Wait until the asynchronous scene fully loads
         while (!asyncLoad.isDone){

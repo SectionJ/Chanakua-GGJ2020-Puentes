@@ -10,6 +10,10 @@ TagManager:
   - Player4
   - Camara
   - Table
+  - P2
+  - P1
+  - Texto P1
+  - Texto P2
   layers:
   - Default
   - TransparentFX
