@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Samuel/Ba\xF1o.unity"
+- path: Assets/Alejandro/Main Menu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
