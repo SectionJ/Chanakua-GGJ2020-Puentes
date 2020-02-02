@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Jordan/Scenes/Island.unity
-=======
-- path: Assets/Alejandro/Main Menu.unity
->>>>>>> master
+- path: "Assets/Samuel/Ba\xF1o.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
