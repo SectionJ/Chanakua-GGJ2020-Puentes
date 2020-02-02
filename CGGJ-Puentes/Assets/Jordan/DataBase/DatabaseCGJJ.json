@@ -1,0 +1,56 @@
+{
+    "players": [
+        {
+            "name": "Player1",
+            "active": false,
+            "powerUps": [
+                {
+                    "doubleTable": 0,
+                    "freeze": 0,
+                    "shield": 0,
+                    "bombs": 0,
+                    "tables": 5
+                }
+            ]
+        },
+        {
+            "name": "PLayer2",
+            "active": false,
+            "powerUps": [
+                {
+                    "doubleTable": 0,
+                    "freeze": 0,
+                    "shield": 0,
+                    "bombs": 0,
+                    "tables": 5
+                }
+            ]
+        },
+        {
+            "name": "PLayer3",
+            "active": false,
+            "powerUps": [
+                {
+                    "doubleTable": 0,
+                    "freeze": 0,
+                    "shield": 0,
+                    "bombs": 0,
+                    "tables": 5
+                }
+            ]
+        },
+        {
+            "name": "PLayer4",
+            "active": false,
+            "powerUps": [
+                {
+                    "doubleTable": 0,
+                    "freeze": 0,
+                    "shield": 0,
+                    "bombs": 0,
+                    "tables": 5
+                }
+            ]
+        }
+    ]
+}
