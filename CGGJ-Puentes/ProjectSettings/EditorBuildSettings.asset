@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Alejandro/Main Menu.unity
+    guid: 6811bc3f264225644a48aa6963f9fd07
+  - enabled: 1
+    path: Assets/Jordan/Scenes/ScreenSelection.unity
+    guid: 7a148d27374853b4a83af1a53c863998
+  - enabled: 1
     path: Assets/AirConsole/examples/basic/basic.unity
     guid: be2892f0848650f4fa6714ec6d9100bf
   - enabled: 1
