@@ -36,7 +36,7 @@ public class RotatioWrench : MonoBehaviour{
 
     void SliderMiniGame(string player){
         GameObject wrench = GameObject.FindGameObjectWithTag(player);
-        wrench.transform.Rotate(Vector3.forward * -speed);
+        wrench.transform.Rotate(Vector3.forward * speed);
         //Debug.Log("Screen Controller/UI Players "+players+"/Slider "+player);
         Slider slider = GameObject.Find("Screen Controller/UI Players "+players+"/Slider "+player).GetComponent<Slider>();
         slider.value += 1;
