@@ -1,23 +1,24 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using TMPro;
 
 public class RotatioWrench : MonoBehaviour{
     // Start is called before the first frame update
     int players = 2;
+    public Animator m_Animator;
     int cont = 0;
     public int speed;
     bool stop = false;
+    public Image fade;
     public TextMesh [] Players;
     void Start(){
-         
     }
 
     // Update is called once per frame
     void Update(){
-
         if(!stop){
             //Controles Jugador 1
             if(Input.GetKeyUp(KeyCode.Q) /*Meter conexion con el AirController*/){
@@ -44,6 +45,19 @@ public class RotatioWrench : MonoBehaviour{
             Debug.Log("Screen Controller/UI Players "+players+"/"+player);
             TextMeshProUGUI winText = GameObject.Find("Screen Controller/UI Players "+players+"/"+player).GetComponent<TextMeshProUGUI>();
             winText.text = "Win";
+            StartCoroutine("Fadde");
+        }
+    }
+
+    IEnumerator Fadde(){
+        yield return new WaitForSeconds(1);
+        m_Animator.SetTrigger("FadeOut");
+        yield return new WaitForSeconds(2);
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("Perica");
+
+        // Wait until the asynchronous scene fully loads
+        while (!asyncLoad.isDone){
+            yield return null;
         }
     }
 }
