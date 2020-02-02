@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Alejandro/Main Menu.unity
-=======
-- path: Assets/Jordan/Scenes/ScreenSelection.unity
->>>>>>> master
   isLoaded: 1
   isActive: 1
   isSubScene: 0
