@@ -62,6 +62,7 @@
      <Compile Include="Assets\Jordan\Script\DataBase\JsonSchema.cs" />
      <Compile Include="Assets\Jordan\Script\Perica\RotatioWrench.cs" />
      <Compile Include="Assets\Jordan\Script\Perica\ScreenOrganize.cs" />
+     <Compile Include="Assets\Jordan\Script\ScreenSelector\SelectorController.cs" />
      <Compile Include="Assets\Samuel\Scripts\Destapacaños.cs" />
      <Compile Include="Assets\Samuel\Scripts\GameController.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
