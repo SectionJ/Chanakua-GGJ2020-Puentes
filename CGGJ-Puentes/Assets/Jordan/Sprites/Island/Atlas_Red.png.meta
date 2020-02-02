@@ -1,7 +1,61 @@
 fileFormatVersion: 2
 guid: 14184fae90f2b7d4ba52274920f4fe8a
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5829431210114901196
+    second: Atlas_Red_0
+  - first:
+      213: 4557843239064943116
+    second: Atlas_Red_1
+  - first:
+      213: 7780802001294221232
+    second: Atlas_Red_2
+  - first:
+      213: 3081144480054670613
+    second: Atlas_Red_3
+  - first:
+      213: -7949288158784440524
+    second: Atlas_Red_4
+  - first:
+      213: 170483445513244303
+    second: Atlas_Red_5
+  - first:
+      213: 7049018221317796042
+    second: Atlas_Red_6
+  - first:
+      213: -4035457918636532456
+    second: Atlas_Red_7
+  - first:
+      213: -7026159823706003351
+    second: Atlas_Red_8
+  - first:
+      213: 5319193165839912012
+    second: Atlas_Red_9
+  - first:
+      213: -7347550438810394244
+    second: Atlas_Red_10
+  - first:
+      213: -5841924509962302078
+    second: Atlas_Red_11
+  - first:
+      213: -3735964178934164299
+    second: Atlas_Red_12
+  - first:
+      213: -8107477973998725456
+    second: Atlas_Red_13
+  - first:
+      213: -1705841839166376743
+    second: Atlas_Red_14
+  - first:
+      213: 4787914702645389322
+    second: Atlas_Red_15
+  - first:
+      213: -7096226613315991393
+    second: Atlas_Red_16
+  - first:
+      213: -5012838285872105642
+    second: Atlas_Red_17
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +94,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +124,423 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Red_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1434
+        width: 173
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b96863333b91fa0800000000000000
+      internalID: -5829431210114901196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1442
+        width: 176
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab1660746b04f30800000000000000
+      internalID: 4557843239064943116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1427
+        width: 87
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf5aca1236fafb60800000000000000
+      internalID: 7780802001294221232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1435
+        width: 184
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515705b749c62ca20800000000000000
+      internalID: 3081144480054670613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_4
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1442
+        width: 176
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4373f6669847ea190800000000000000
+      internalID: -7949288158784440524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_5
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1428
+        width: 124
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ec6e95acdad5200800000000000000
+      internalID: 170483445513244303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1069
+        width: 228
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac037e899b423d160800000000000000
+      internalID: 7049018221317796042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1041
+        width: 194
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dd1ad576c2ff7c0800000000000000
+      internalID: -4035457918636532456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1010
+        width: 140
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e1e4ddd01e7e90800000000000000
+      internalID: -7026159823706003351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_9
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1008
+        width: 167
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc295800291d940800000000000000
+      internalID: 5319193165839912012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_10
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1041
+        width: 194
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71e07d0ec1480a90800000000000000
+      internalID: -7347550438810394244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_11
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1068
+        width: 228
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d8c0b2c905deea0800000000000000
+      internalID: -5841924509962302078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 548
+        width: 103
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49b0d8f50372cc0800000000000000
+      internalID: -3735964178934164299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 559
+        width: 118
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69087ecb37c7f80800000000000000
+      internalID: -8107477973998725456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_14
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 558
+        width: 118
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43d7d92e1a358e0800000000000000
+      internalID: -1705841839166376743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_15
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 544
+        width: 103
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086c0afd07127240800000000000000
+      internalID: 4787914702645389322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107
+        width: 107
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9880ab1e73258d90800000000000000
+      internalID: -7096226613315991393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Red_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 109
+        width: 107
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6577d1e5322de6ab0800000000000000
+      internalID: -5012838285872105642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

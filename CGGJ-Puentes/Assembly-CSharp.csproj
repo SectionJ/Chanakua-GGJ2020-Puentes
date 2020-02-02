@@ -60,6 +60,8 @@
      <Compile Include="Assets\AirConsole\scripts\Settings.cs" />
      <Compile Include="Assets\AirConsole\scripts\WebsocketListener.cs" />
      <Compile Include="Assets\Jordan\Script\DataBase\JsonSchema.cs" />
+     <Compile Include="Assets\Jordan\Script\Island\Controller.cs" />
+     <Compile Include="Assets\Jordan\Script\Island\Dynamics.cs" />
      <Compile Include="Assets\Jordan\Script\Perica\RotatioWrench.cs" />
      <Compile Include="Assets\Jordan\Script\Perica\ScreenOrganize.cs" />
      <Compile Include="Assets\Jordan\Script\ScreenSelector\SelectorController.cs" />
