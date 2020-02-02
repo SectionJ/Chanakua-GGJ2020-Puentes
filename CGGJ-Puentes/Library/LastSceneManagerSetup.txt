@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Perica.unity
+- path: Assets/Jordan/Scenes/Perica.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
